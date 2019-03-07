@@ -1,1 +1,1 @@
-currentUser
+const currentUser = 'Grace Hopper'
